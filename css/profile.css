@@ -1,0 +1,63 @@
+img.avatar {
+  border: 2px solid grey;
+  border-radius: 50%;
+}
+a.small {
+  background: #1DA1F2;
+  border-radius: 50px;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  height: 48px;
+  padding: 0 16px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 18px;
+  width: 300px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: 0.5px;
+  background-color: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.acuity-embed-button-local {
+background: #3177ca;
+padding: 8px 12px;
+border: 0;
+border-radius: 4px;
+text-decoration: none;
+display: inline-block;
+text-decoration: none;
+height: 48px;
+padding: 0 16px;
+text-align: center;
+vertical-align: middle;
+font-size: 18px;
+width: 300px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0.5px;
+white-space: nowrap;
+background-color: transparent;
+border-radius: 8px;
+cursor: pointer;
+box-sizing: border-box;
+color: #FFFFFF;
+background-color: #0A66C2
+}
+.acuity-embed-button-local:hover,
+.acuity-embed-button-local:hover:before {
+content: '';
+white-space: initial; }
+
+.acuity-embed-button-local:focus {
+filter: brightness(90%);
+color: inherit; }
+footer {
+  text-align: center;
+  padding: 3px;
+  color: white;
+  font-size: 12px;
+}
